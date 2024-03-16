@@ -9,7 +9,7 @@
 					</h1>
 
 					<p class="mt-3 text-gray-200">
-						Crie um negócio que permite uma renda de R$ 5k a R$ 10k mensal.
+						Crie um negócio que permite uma renda de <b>R$ 5k a R$ 10k mensal.</b>
 					</p>
 
 					<button
