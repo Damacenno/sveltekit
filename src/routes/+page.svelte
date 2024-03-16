@@ -1,1 +1,5 @@
-<h1>Minha page</h1>
+<script>
+    import Hero from '$lib/Hero.svelte';
+</script>
+
+<Hero />
